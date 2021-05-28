@@ -1,5 +1,5 @@
 ---
-title: "Episode 2"
+title: "Using RMarkdown"
 teaching: 10
 exercises: 2
 ---
